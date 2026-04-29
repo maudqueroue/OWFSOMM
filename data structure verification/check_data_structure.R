@@ -26,11 +26,6 @@ library(lubridate)
 library(purrr)
 
 
-
-# Load species code
-Sp_Code <- read.csv2(paste0(path,'species_code_OWFSOMM.csv'), sep=";")
-
-
 ## General functions ---- 
 
 #### column_ref
@@ -44,6 +39,7 @@ column_ref <- function(data){
   
   return(ID)
   
+}
   
   #### table_name
   
@@ -566,7 +562,6 @@ column_ref <- function(data){
   
   #### verif_target_confidence
   
-  ```{r}
   verif_target_confidence <- function(data){
     
     namedata <- table_name(data)
