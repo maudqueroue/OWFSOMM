@@ -1,0 +1,161 @@
+Species_Code;Species_Name;French_Name;Order;Family;Category;Species_Code_SAMM;SS_Group_OWFSOMM;Group_OWFSOMM;Color
+ANPLA;Anas platyrhynchos;Canard colvert;Anseriformes;Anatides;ESPECE OISEAU;ANAPLA;Anatid;Anatid;#fdffb6
+TATAD;Tadorna tadorna;Tadorne de Belon;Anseriformes;Anatides;ESPECE OISEAU;TADTAD;Anatid;Anatid;#fdffb6
+ANASPP;Anas spp;Canard sp;Anseriformes;Anatides;GENRE OISEAU;ANASPP;Anatid;Anatid;#fdffb6
+ANANS;Anser anser;Oie cendree;Anseriformes;Anatides;ESPECE OISEAU;ANSANS;Anatid;Anatid;#fdffb6
+ANSSPP;Anser spp;Oie sp;Anseriformes;Anatides;GENRE OISEAU;ANSSPP;Anatid;Anatid;#fdffb6
+AYFXM;Aythya fuligula/marila;Fuligule morillon/milouinan;Anseriformes;Anatides;ESPECE OISEAU;AYFXM;Anatid;Anatid;#fdffb6
+SOMOL;Somateria mollissima;Eider a duvet;Anseriformes;Anatides;ESPECE OISEAU;SOMMOL;Anatid;Anatid;#fdffb6
+BRBER;Branta bernicla;Bernache cravant;Anseriformes;Anatides;ESPECE OISEAU;BRABER;Anatid;Anatid;#fdffb6
+BRLEU;Branta leucopsis;Bernache nonnette;Anseriformes;Anatides;ESPECE OISEAU;BRALEU;Anatid;Anatid;#fdffb6
+MELFXN;Melanitta fusca/nigra;Macreuse brune/noire;Anseriformes;Anatides;GENRE OISEAU;MELFXN;Anatid;Anatid;#fdffb6
+MENIG;Melanitta nigra;Macreuse noire;Anseriformes;Anatides;ESPECE OISEAU;MELNIG;Anatid;Anatid;#fdffb6
+MEMER;Mergus merganser;Harle bievre;Anseriformes;Anatides;ESPECE OISEAU;MERMER;Anatid;Anatid;#fdffb6
+MELSPP;Melanitta sp;Macreuse sp;Anseriformes;Anatides;GENRE OISEAU;MELSPP;Anatid;Anatid;#fdffb6
+MESER;Mergus serrator;Harle huppe;Anseriformes;Anatides;ESPECE OISEAU;MERSER;Anatid;Anatid;#fdffb6
+CYOLO;Cygnus olor;Cygne tubercule;Anseriformes;Anatides;ESPECE OISEAU;CYGOLO;Anatid;Anatid;#fdffb6
+MERSPP;Mergus spp;Harles spp;Anseriformes;Anatides;ESPECE OISEAU;MERSPP;Anatid;Anatid;#fdffb6
+ALTOR;Alca torda;Pingouin torda;Charadriiformes;Alcides;ESPECE OISEAU;ALCTOR;Auk;Auk;#bf0603
+ALCURI;Alca torda/Uria aalge;Pingouin torda/Guillemot de Troil;Charadriiformes;Alcides;GENRE OISEAU;ALCURI;Auk;Auk;#bf0603
+ALCSPP;Alcidae spp;Alcide sp;Charadriiformes;Alcides;GENRE OISEAU;ALCSPP;Auk;Auk;#bf0603
+FRARC;Fratercula arctica;Macareux moine;Charadriiformes;Alcides;ESPECE OISEAU;FRAARC;Auk;Auk;#bf0603
+URAAL;Uria aalge;Guillemot de Troil;Charadriiformes;Alcides;ESPECE OISEAU;URIAAL;Auk;Auk;#bf0603
+CETSPP;Cetacea;Cetace sp;Cetacea;NA;MAMMIFERE MARIN;CETSPP;Cetacean;Cetacean;#81c3d7
+DELPHO;Delphinus delphis / Phocoena phocoena;Marsouin commun / Dauphin commun;Cetacea;Delphinides;MAMMIFERE MARIN;DELPHO;Delphinid;Cetacean;#81c3d7
+DELSPP;Delphinidae sp;Delphinide sp;Cetacea;Delphinides;MAMMIFERE MARIN;DELSPP;Delphinid;Cetacean;#81c3d7
+DELDEL;Delphinus delphis;Dauphin commun;Cetacea;Delphinides;MAMMIFERE MARIN;DELDEL;Delphinid;Cetacean;#81c3d7
+PHOPHO;Phocoena phocoena;Marsouin commun;Cetacea;Phocoenides;MAMMIFERE MARIN;PHOPHO;Delphinid;Cetacean;#81c3d7
+SMACET;Small Cetacea;Petit cétacé;Cetacea;Phocoenides;MAMMIFERE MARIN;SMACET;Delphinid;Cetacean;#81c3d7
+GRAGRI;Grampus griseus;Dauphin de Risso;Cetacea;Delphinides;MAMMIFERE MARIN;GRAGRI;Delphinid;Cetacean;#81c3d7
+STECOE;Stenella coeruleoalba;Dauphin bleu et blanc;Cetacea;Delphinides;MAMMIFERE MARIN;STEDEL;Delphinid;Cetacean;#81c3d7
+TURTRU;Tursiops truncatus;Grand dauphin;Cetacea;Delphinides;MAMMIFERE MARIN;TURTRU;Delphinid;Cetacean;#81c3d7
+PHARI;Phalacrocorax aristotelis;Cormoran huppe;Suliformes;Phalacrocoracides;ESPECE OISEAU;PHAARI;Cormorant;Cormorant;#9b5de5
+PHAAXC;Phalacrocorax aristotelis/carbo;Cormoran huppe/grand;Suliformes;Phalacrocoracides;GENRE OISEAU;CORMSP;Cormorant;Cormorant;#9b5de5
+PHCAR;Phalacrocorax carbo;Grand Cormoran;Suliformes;Phalacrocoracides;ESPECE OISEAU;PHACAR;Cormorant;Cormorant;#9b5de5
+GAARC;Gavia arctica;Plongeon arctique;Gaviiformes;Gaviides;ESPECE OISEAU;GAVARC;Diver;Diver;#cae7b9
+GAVAXS;Gavia arctica/stellata;Plongeon arctique/catmarin;Gaviiformes;Gaviides;GENRE OISEAU;GAVAXS;Diver;Diver;#cae7b9
+GAIMM;Gavia immer;Plongeon imbrin;Gaviiformes;Gaviides;ESPECE OISEAU;GAVIMM;Diver;Diver;#cae7b9
+GAVSPP;Gavia spp;Plongeon sp;Gaviiformes;Gaviides;GENRE OISEAU;GAVSPP;Diver;Diver;#cae7b9
+GASTE;Gavia stellata;Plongeon catmarin;Gaviiformes;Gaviides;ESPECE OISEAU;GAVSTE;Diver;Diver;#cae7b9
+MOBAS;Morus bassanus;Fou de Bassan;Suliformes;Sulides;ESPECE OISEAU;SULBAS;Gannet;Gannet;#fbb02d
+PONIG;Podiceps nigricollis;Grebe a cou noir;Podicipediformes;Podicipedides;ESPECE OISEAU;PODNIG;Grebe;Grebe;#ff7d00
+POGRI;Podiceps grisegena;Grebe jougris;Podicipediformes;Podicipedides;ESPECE OISEAU;PODGRI;Grebe;Grebe;#ff7d00
+POCRI;Podiceps cristatus;Grebe huppe;Podicipediformes;Podicipedides;ESPECE OISEAU;PODCRI;Grebe;Grebe;#ff7d00
+PODSPP;Podiceps spp;Grebe sp;Podicipediformes;Podicipedides;ESPECE OISEAU;PODSPP;Grebe;Grebe;#ff7d00
+LAFUS;Larus fuscus;Goeland brun;Charadriiformes;Larides;ESPECE OISEAU;LARFUS;Black gull;Gull;#7ae582
+LARFXM;Larus fuscus/marinus;Goeland brun/marin;Charadriiformes;Larides;GENRE OISEAU;BLAGUL;Black gull;Gull;#7ae582
+LAMAR;Larus marinus;Goeland marin;Charadriiformes;Larides;ESPECE OISEAU;LARMAR;Black gull;Gull;#7ae582
+LAARG;Larus argentatus;Goeland argente;Charadriiformes;Larides;ESPECE OISEAU;LARARG;Grey gull;Gull;#7ae582
+LARAXC;Larus argentatus/cachinnans;Goeland argente/leucophee;Charadriiformes;Larides;GENRE OISEAU;GREGUL;Grey gull;Gull;#7ae582
+LARAXF;Larus argentatus/fuscus;Goeland argente/brun;Charadriiformes;Larides;GENRE OISEAU;LARAXF;Large gull;Gull;#7ae582
+LARGUL;Large Larus spp;Grand Larus;Charadriiformes;Larides;GENRE OISEAU;LARGUL;Large gull;Gull;#7ae582
+LACAN;Larus canus;Goeland cendre;Charadriiformes;Larides;ESPECE OISEAU;LARCAN;Med gull;Gull;#7ae582
+LARCHR;Larus/Chroicocephalus spp;Goeland/Mouette rieuse;Charadriiformes;Larides;GENRE OISEAU;LARCHR;Other gull;Gull;#7ae582
+LARCXT;Larus canus/Rissa tridactyla;Goeland cendre/Mouette tridactyle;Charadriiformes;Larides;GENRE OISEAU;LARCXT;Other gull;Gull;#7ae582
+LARSPP;Laridae spp;Larides sp;Charadriiformes;Larides;GENRE OISEAU;LARSPP;Other gull;Gull;#7ae582
+LARLAR;Larus spp;Goeland sp;Charadriiformes;Larides;GENRE OISEAU;LARLAR;Other gull;Gull;#7ae582
+STECHR;Sterna/Chroicocephalus spp;Sterne/Mouette rieuse;Charadriiformes;Larides;GENRE OISEAU;STECHR;Other gull;Gull;#7ae582
+LARACC;Larus argentatus/cachinnans/canus;Goeland argente/leucophee/cendre;Charadriiformes;Larides;GENRE OISEAU;LARACC;Other gull;Gull;#7ae582
+CHRICH;Chroicocephalus ridibundus/Ichthyaetus melanocephalus;Mouette rieuse/Mouette melanocephale ;Charadriiformes;Larides;ESPECE OISEAU;CHRICH;Small gull;Gull;#7ae582
+CHRID;Chroicocephalus ridibundus;Mouette rieuse;Charadriiformes;Larides;ESPECE OISEAU;CHRRID;Small gull;Gull;#7ae582
+CHRSPP;Chroicocephalus spp;Mouette sp;Charadriiformes;Larides;GENRE OISEAU;SMAGUL;Small gull;Gull;#7ae582
+MINTRI;Hydrocoloeus minutus/Rissa tridactyla;Mouette pygmee/Mouette tridactyle;Charadriiformes;Larides;ESPECE OISEAU;MINTRI;Small gull;Gull;#7ae582
+HYMIN;Hydrocoloeus minutus;Mouette pygmee;Charadriiformes;Larides;ESPECE OISEAU;LARMIN;Small gull;Gull;#7ae582
+ICMEL;Ichthyaetus melanocephalus;Mouette melanocephale;Charadriiformes;Larides;ESPECE OISEAU;LARMEL;Small gull;Gull;#7ae582
+XESAB;Xema sabini;Mouette de Sabine;Charadriiformes;Larides;ESPECE OISEAU;LARSAB;Small gull;Gull;#7ae582
+RITRI;Rissa tridactyla;Mouette tridactyle;Charadriiformes;Larides;ESPECE OISEAU;RISTRI;Small gull;Gull;#7ae582
+MAMMI;Mammifere marin;Mammifere marin;NA;NA;MAMMIFERE MARIN;MAMMI;Mammifere;Mammifere;#81c3d7
+FP;Faux positif;Aucune observation sur SnapShot;NA;NA;NA;FP;Faux positif;Non-animal;#000000
+AUTRES;Autres observations;Autres observations;Divers;NA;ANTROPIQUE;OTHER;Non-animal;Non-animal;#000000
+BATCHA;Bateau Chalutier;Bateau Chalutier;Bateau;NA;ANTROPIQUE;TRAWLB;Non-animal;Non-animal;#000000
+BATVOI;Bateau de plaisance a voile;Bateau de plaisance a voile;Bateau;NA;ANTROPIQUE;SAILBO;Non-animal;Non-animal;#000000
+BATMOT;Bateau de plaisance a moteur;Bateau de plaisance a moteur;Bateau;NA;ANTROPIQUE;PLEABO;Non-animal;Non-animal;#000000
+BATPEC;Bateau de peche professionnel;Bateau de peche professionnel;Bateau;NA;ANTROPIQUE;FISHBO;Non-animal;Non-animal;#000000
+BATPET;Petit bateau non identifie;Petit bateau non identifie;Bateau;NA;ANTROPIQUE;MOTOBO;Non-animal;Non-animal;#000000
+BATSPP;Bateau non identifie;Bateau non identifie;Bateau;NA;ANTROPIQUE;BATSPP;Non-animal;Non-animal;#000000
+BATGRA;Gros bateau non identifie;Gros bateau non identifie;Bateau;NA;ANTROPIQUE;BOAT;Non-animal;Non-animal;#000000
+BATCAR;Cargo;Cargo;Bateau;NA;ANTROPIQUE;BATCAR;Non-animal;Non-animal;#000000
+BATFER;Ferry;Ferry;Bateau;NA;ANTROPIQUE;FERRYB;Non-animal;Non-animal;#000000
+BATADM;Bateau de l Etat;Bateau de l Etat;Bateau;NA;ANTROPIQUE;ADMIBO;Non-animal;Non-animal;#000000
+TANKER;Tanker;Tanker;Bateau;NA;ANTROPIQUE;TANKER;Non-animal;Non-animal;#000000
+BATCOM;Bateau de commerce;Bateau de commerce;Bateau;NA;ANTROPIQUE;CARGOB;Non-animal;Non-animal;#000000
+BOUCAS;Bouee de casier;Bouee de casier;Objet;NA;ANTROPIQUE;BOUCAS;Non-animal;Non-animal;#000000
+BOUCHA;Bouee ou chaine de bouees;Bouee ou chaine de bouees;Objet;NA;ANTROPIQUE;BOUCHA;Non-animal;Non-animal;#000000
+PECHDRAP;Drapeau marquant un filet de peche;Drapeau marquant un filet de peche;Objet;NA;ANTROPIQUE;PECHDRAP;Non-animal;Non-animal;#000000
+BOUMES;Bouee de mesure;Bouee de mesure;Objet;NA;ANTROPIQUE;BOUMES;Non-animal;Non-animal;#000000
+BOUPEC;Bouee de peche;Bouee de peche;Objet;NA;ANTROPIQUE;BUOY;Non-animal;Non-animal;#000000
+DECPEC;Dechet peche;Dechet peche;Dechet;NA;ANTROPIQUE;FISHTR;Non-animal;Non-animal;#000000
+MACDEC;Macro dechets;Macro dechets;Dechet;NA;ANTROPIQUE;TRASH;Non-animal;Non-animal;#000000
+WOODTR;Dechets bois;Dechets bois;Dechet;NA;ANTROPIQUE;WOODTR;Non-animal;Non-animal;#000000
+PLASTR;Dechets plastique;Dechets plastique;Dechet;NA;ANTROPIQUE;PLASTR;Non-animal;Non-animal;#000000
+ALGUE;Algue;Algue;Algue;NA;NA;ALGUE;Non-animal;Non-animal;#000000
+AVIONS;Avion;Avion;Avion;NA;ANTROPIQUE;AVIONS;Non-animal;Non-animal;#000000
+INCONNU;Inconnu;Inconnu;NA;NA;NA;INCONNU;Unknown;Non-animal;#000000
+MOLMOL;Mola mola;Poisson lune;Tetraodontiformes;Molides;AUTRES ESPECES;MOLMOL;Fish;Sunfish;#a6b1e1
+GROPER;Chelidonichthys lucerna;Grondin perlon;Scorpaeniformes;Triglides;AUTRES ESPECES;GROPER;Fish;Fish;#a6b1e1
+LARFIS;Osteichiens;Grand poisson ind.;Poisson;Poisson;AUTRES ESPECES;LARFIS;Fish;Large fish;#a6b1e1
+SMAFIS;Osteichiens /;Petit poisson ind.;Poisson;Poisson;AUTRES ESPECES;SMAFIS;Fish;Fish;#a6b1e1
+THOSPP;Thunnus sp;Thon sp;Perciformes;Scombrides;AUTRES ESPECES;THOSPP;Fish;Large fish;#a6b1e1
+THUSPP;Thunnus spp. / Sarda spp.;Thon / Bonite;Perciformes;Scombrides;AUTRES ESPECES;THUSPP;Fish;Large fish;#a6b1e1
+THUTHY;Thunnus thynnus;Thon rouge;Perciformes;Scombrides;AUTRES ESPECES;THTHY;Fish;Large fish;#a6b1e1
+FISHSP;Pisces sp;Poisson (grand ou banc);NA;NA;AUTRES ESPECES;FISH;Fish;Large fish;#a6b1e1
+MEDUSE;Meduse sp;Meduse sp;NA;NA;AUTRES ESPECES;JELLY;Jellyfish;Jellyfish;#a6b1e1
+RAISPP;Rajomorphii sp;Raie sp;NA;NA;AUTRES ESPECES;RAYSPP;Ray;Other;#a6b1e1
+REQSPP;Selachimorpha sp;Requin sp;NA;NA;AUTRES ESPECES;SHARK;Shark;Shark;#a6b1e1
+PRIGLA;Prionace glauca;Requin peau bleue;Carcharhiniformes;Carcharhinides;AUTRES ESPECES;PRIGLA;Shark;Shark;#a6b1e1
+LAMNAS;Lamna nasus;Requin-taupe;NA;NA;AUTRES ESPECES;LAMNAS;Shark;Shark;#a6b1e1
+PLANCTON;Plancton;Plancton;NA;NA;AUTRES ESPECES;PLANCTON;Plancton;Other;#a6b1e1
+AVESPP;Oiseaux spp;Aves sp;NA;NA;GENRE OISEAU;BIRSPP;Bird;Other bird;#acb0bd
+AEDSPP;Ardea sp;Ardeide sp;Pelecaniformes;Ardeides;ESPECE OISEAU;ARDSPP;Heron;Other bird;#acb0bd
+ARALB;Ardea alba;Grande Aigrette;Pelecaniformes;Ardeides;ESPECE OISEAU;ARDALB;Heron;Other bird;#acb0bd
+BUIBI;Bubulcus ibis;Heron garde boeufs;Pelecaniformes;Ardeides;ESPECE OISEAU;BUBIBI;Heron;Other bird;#acb0bd
+ARCIN;Ardea cinerea;Heron cendre;Pelecaniformes;Ardeides;ESPECE OISEAU;ARDCIN;Heron;Other bird;#acb0bd
+PLLEU;Platalea leucorodia;Spatule blanche;Pelecaniformes;Threskiornithides;ESPECE OISEAU;PLALEU;Other bird;Other bird;#acb0bd
+EGGAR;Egretta garzetta;Aigrette garzette;Pelecaniformes;Ardeides;ESPECE OISEAU;EGRGAR;Heron;Other bird;#acb0bd
+APAPU;Apus apus;Martinet noir;Apodiformes;Apodides;ESPECE OISEAU;APUAPU;Other bird;Other bird;#acb0bd
+HIRSPP;Hirundo spp;Hirondelle sp;Passeriformes;Hirundinides;GENRE OISEAU;HIRSPP;Passerine;Other bird;#acb0bd
+FUATR;Fulica atra;Foulque macroule;Gruiformes;Rallides;ESPECE OISEAU;FULATR;Other bird;Other bird;#acb0bd
+COLIV;Columba livia;Pigeon biset;Columbiformes;Columbides;ESPECE OISEAU;COLLIV;Other bird;Other bird;#acb0bd
+FULGOE;Fulmarus glacialis/Larus;Fulmar/Goeland;NA;NA;GENRE OISEAU;FULGOE;Other bird;Other bird;#acb0bd
+MOALB;Motacilla alba;Bergeronnette grise;Passeriformes;Motacillides;ESPECE OISEAU;MOTALB;Passerine;Other bird;#acb0bd
+PASSPP;Passeriforme spp;Passereaux sp;Passeriformes;NA;GENRE OISEAU;PASSER;Passerine;Other bird;#acb0bd
+FALSPP;Falconiforme spp;Rapaces sp;Accipitriformes;NA;GENRE OISEAU;FALSPP;Raptor;Other bird;#acb0bd
+FATIN;Falco tinnunculus;Faucon crecerelle;Falconiformes;Falconides;ESPECE OISEAU;FALTIN;Raptor;Other bird;#acb0bd
+PAHAL;Pandion haliaetus;Balbuzard pecheur;Accipitriformes;Pandionides;ESPECE OISEAU;PANHAL;Raptor;Other bird;#acb0bd
+CAALB;Calidris alba;Becasseau sanderling;Charadriiformes;Scolopacides;ESPECE OISEAU;CALALB;Wader;Other bird;#acb0bd
+CAALP;Calidris alpina;Becasseau variable;Charadriiformes;Scolopacides;ESPECE OISEAU;CALALP;Wader;Other bird;#acb0bd
+CALSPP;Calidris spp;Becasseau sp;Charadriiformes;Scolopacides;GENRE OISEAU;CALSPP;Wader;Other bird;#acb0bd
+LIMSPP;Charadriiforme spp;Limicole sp;Charadriiformes;NA;GENRE OISEAU;LIMICO;Wader;Other bird;#acb0bd
+HAOST;Haematopus ostralegus;Huitrier pie;Charadriiformes;Haematopodides;ESPECE OISEAU;HAEOST;Wader;Other bird;#acb0bd
+NUARQ;Numenius arquata;Courlis cendre;Charadriiformes;Scolopacides;ESPECE OISEAU;NUMARQ;Wader;Other bird;#acb0bd
+NUMAXP;Numenius arquata/phaeopus;Courlis cendre/corlieu;Charadriiformes;Scolopacides;GENRE OISEAU;NUMAXP;Wader;Other bird;#acb0bd
+PLAPR;Pluvialis apricaria;Pluvier dore;Charadriiformes;Charadriides;ESPECE OISEAU;PLUAPR;Wader;Other bird;#acb0bd
+REAVO;Recurvirostra avosetta;Avocette elegante;Charadriiformes;Recurvirostrides;ESPECE OISEAU;RECAVO;Wader;Other bird;#acb0bd
+VAVAN;Vanellus vanellus;Vanneau huppe;Charadriiformes;Charadriides;ESPECE OISEAU;VANVAN;Wader;Other bird;#acb0bd
+HALGRY;Halichoerus grypus;Phoque gris;Carnivora;Phocidae;MAMMIFERE MARIN;HALGRY;Seal;Seal;#1d4e89
+PHOVIT;Phoca vitulina;Phoque veau marin;Carnivora;Phocidae;MAMMIFERE MARIN;PHOVIT;Seal;Seal;#1d4e89
+PHOCID;Phocidae sp;Phoque sp;Carnivora;Phocidae;MAMMIFERE MARIN;PHOCID;Seal;Seal;#1d4e89
+STPOM;Stercorarius pomarinus;Labbe pomarin;Charadriiformes;Stercorariides;ESPECE OISEAU;STEPOM;Skua;Skua;#c7ad84
+STSKU;Stercorarius skua;Grand Labbe;Charadriiformes;Stercorariides;ESPECE OISEAU;CATSKU;Skua;Skua;#c7ad84
+STERCO;Stercorarius sp.;Petit labbe sp.;Charadriiformes;Stercorariides;ESPECE OISEAU;STERCO;Skua;Skua;#c7ad84
+SKUSPP;Stercorarius/Catharacta  spp;Labbe sp;Charadriiformes;Stercorariides;GENRE OISEAU;SKUSPP;Skua;Skua;#c7ad84
+STEHXP;Sterna hirundo/paradisaea;Sterne arctique/pierregarrin;Charadriiformes;Sternides;GENRE OISEAU;STEHXP;Tern;Gull;#7ae582
+STEHXS;Sterna hirundo / Thalasseus sandvicensis;Sterne pierregarin/ sterne caugek;Charadriiformes;Sternides;GENRE OISEAU;STEHXS;Tern;Gull;#7ae582
+HYDCAS;Hydroprogne caspia;Sterne caspienne;Charadriiformes;Larides;ESPECE OISEAU;HYDCAS;Tern;Gull;#7ae582
+STALB;Sternula albifrons;Sterne naine;Charadriiformes;Larides;ESPECE OISEAU;STEALB;Tern;Gull;#7ae582
+STHIR;Sterna hirundo;Sterne pierregarin;Charadriiformes;Larides;ESPECE OISEAU;STEHIR;Tern;Gull;#7ae582
+STESPP;Sterna spp;Sterne sp;Charadriiformes;Sternides;GENRE OISEAU;STESPP;Tern;Gull;#7ae582
+THSAN;Thalasseus sandvicensis;Sterne caugek;Charadriiformes;Sternides;ESPECE OISEAU;STESAN;Tern;Gull;#7ae582
+MEDTER;Sterna hirundo/paradisaea;Sterne moyenne ind.;Charadriiformes;Sternides;GENRE OISEAU;MEDTER;Tern;Gull;#7ae582
+FUGLA;Fulmarus glacialis;Fulmar boreal;Procellariiformes;Procellariides;ESPECE OISEAU;FULGLA;Tubenose;Fulmar;#f5cac3
+HYPEL;Hydrobates pelagicus;Oceanite tempete;Procellariiformes;Hydrobatides;ESPECE OISEAU;HYDPEL;Tubenose;Storm petrel;#f5cac3
+HYDSPP;Hydrobatidae spp;Oceanite sp;Procellariiformes;Hydrobatides;GENRE OISEAU;OCESPP;Tubenose;Storm petrel;#f5cac3
+PETSPP;Petrel sp;Petrel sp;Procellariiformes;Procellariides;GENRE OISEAU;PETSPP;Tubenose;Tubenose;#f5cac3
+PUPUF;Puffinus puffinus;Puffin des Anglais;Procellariiformes;Procellariides;ESPECE OISEAU;PUFPUF;Tubenose;Shearwater;#f5cac3
+PUMAU;Puffinus mauretanicus;Puffin des Baleares;Procellariiformes;Procellariides;ESPECE OISEAU;PUFMAU;Tubenose;Shearwater;#f5cac3
+LARSHE;Calonectris / puffinus gravis / P. griseus;Grand puffin ind.;Procellariiformes;Procellariides;ESPECE OISEAU;LARSHE;Tubenose;Shearwater;#f5cac3
+SMASHE;Puffinus yelkouan / puffinus / mauretanicus;Petit puffin ind.;Procellariiformes;Procellariides;ESPECE OISEAU;SMASHE;Tubenose;Shearwater;#f5cac3
+PUFSPP;Puffinus spp;Puffin sp;Procellariiformes;Procellariides;ESPECE OISEAU;PUFSPP;Tubenose;Shearwater;#f5cac3
+ARGRA;Ardenna gravis;Puffin majeur;Procellariiformes;Procellariides;ESPECE OISEAU;ARDGRA;Tubenose;Shearwater;#f5cac3
+CABOR;Calonectris borealis;Puffin cendre;Procellariiformes;Procellariides;ESPECE OISEAU;CALBOR;Tubenose;Shearwater;#f5cac3
+ARGRI;Ardenna grisea;Puffin fuligineux;Procellariiformes;Procellariides;ESPECE OISEAU;ARDGRI;Tubenose;Shearwater;#f5cac3
