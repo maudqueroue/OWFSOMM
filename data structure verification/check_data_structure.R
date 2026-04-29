@@ -673,7 +673,7 @@ column_ref <- function(data){
   
   #### verif_species_code
   
-  verif_species_code <- function(data, col, Sp_Code = Sp_Code) {
+  verif_species_code <- function(data, col, df_Code = Sp_Code) {
     
     namedata <- table_name(data)
     
@@ -693,30 +693,30 @@ column_ref <- function(data){
       
       if({deparse(substitute(col))} == "Species_Code"){
         
-        if(any(x %in% Sp_Code$Species_Code == FALSE)){
+        if(any(x %in% df_Code$Species_Code == FALSE)){
           
           out <- data %>%
-            filter({{col}} %!in% Sp_Code$Species_Code) %>%
+            filter({{col}} %!in% df_Code$Species_Code) %>%
             pull(Object_ID)
           
           cli_alert_danger(glue_collapse('Species_Code for Object_ID: {out} not correct, please check'))}
         
-        if(all(all(is.na(x) == FALSE) & all(x %in% Sp_Code$Species_Code))){cli_alert_success(glue('Column {deparse(substitute(col))} is correct'))}
+        if(all(all(is.na(x) == FALSE) & all(x %in% df_Code$Species_Code))){cli_alert_success(glue('Column {deparse(substitute(col))} is correct'))}
         
       }
       
       if({deparse(substitute(col))} == "Species_Name"){
         
-        if(any(x %in% Sp_Code$Species_Name == FALSE)){
+        if(any(x %in% df_Code$Species_Name == FALSE)){
           
           out <- data %>%
-            filter({{col}} %!in% Sp_Code$Species_Name) %>%
+            filter({{col}} %!in% df_Code$Species_Name) %>%
             pull(Object_ID)
           
           cli_alert_danger(glue_collapse('Species_Name for Object_ID: {out} not correct, please check'))}
         
         
-        if(all(all(is.na(x) == FALSE) & all(x %in% Sp_Code$Species_Name))){cli_alert_success(glue('Column {deparse(substitute(col))} is correct'))}
+        if(all(all(is.na(x) == FALSE) & all(x %in% df_Code$Species_Name))){cli_alert_success(glue('Column {deparse(substitute(col))} is correct'))}
         
       }
       
